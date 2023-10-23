@@ -6,6 +6,6 @@ function createHelloWorld() {
   return func;
 }
 
-let chi = createHelloWorld();
+let final = createHelloWorld();
 
-console.log(chi());
+console.log(final());
